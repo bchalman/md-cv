@@ -1,91 +1,87 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Blake Chalman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Blake Chalman
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <span>714.833.4968</span>
+  | <span>blakechalman@gmail.com</span>
+  | <a href="www.linkedin.com/in/blakechalman">LinkedIn</a>
+  | <a href="https://github.com/bchalman">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I'm a Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
+In my off-time, I am working toward a career in software development, utilizing self-study programs to expand on the programming foundations I have from university coursework.
 
 
-### Research interests
+## Employment
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2016-Present`
+__Chalman Technologies__ *Manufacturer's Representative* for the below companies, managing accounts in Southern California, and offering extensive experience with account mangement, product presentation, and customer service and support:  
+
+* [Advanced Dicing Technologies](https://www.adt-co.com/) | Dicing
+* [Besi](https://www.besi.com/)	| Die attach and packaging
+* [Cyber Technologies](https://www.cybertechnologies.com/en/) | Surface metrology
+* [Heraeus](https://www.heraeus.com/en/het/products_and_solutions_het/bonding_wires/bw_at_a_glance/bonding_wires_page.aspx) | Bonding wire
+* [Hesse Mechatronics](https://www.hesse-mechatronics.com/en/) | Automatic wire bonding
+* [IPG Photonics](https://www.ipgphotonics.com/en)	| Fiber laser material processing
+* [Micro Point Pro](http://www.mpptools.com/wire-bonders) | Semi-automatic wire bonding
+* [MicroScreen](http://www.microscreenllc.com/) | Thick film screens and stencils
+* [Midas Technology](http://www.midastechnology.com/) | Package rework
+* [NorCom Systems](https://norcomsystemsinc.com/) | Optical leak test
+* [Nordson Dage](http://www.nordson.com/en/divisions/dage) | Bond strength test
+* [Nordson March](http://www.nordson.com/en/divisions/march) | Gas plasma
+* [SST Vacuum Reflow Systems](http://www.palomartechnologies.com/solutions/hermetic-package-sealing) | Vacuum soldering
+
+`2015-16`
+__Urgent Care at Newport Center__ *Medical Scribe:* Documented patient contacts for Urgent Care providers, organizing health data, recording treatments, and noting follow up actions to make them easily accessible to the healthcare staff.
+
+`Summer 2014`
+__UCLA Recreation__ *Lifeguard:* Monitored pools and patrons to establish a safe, enjoyable swimming and recreation environment for visitors.
+
+`Summer 2013`
+__Applied Medical__ *Intern, Information Technologies:* Provided phone and in-person support for the company help desk, troubleshooting and replacing hardware as needed. I also updated computers and servers, and managed the deployment and return of intern systems.
+
+`Summer 2011`
+__The Boeing Company__ *Intern, Aerospace:* Constructed and tested nanosatellite bus components as part of the Colony II project.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Institutions
+`2012-15`
+__University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*
+* GPA: 3.787 \| Major GPA: 3.856
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2009-12`
+__Lutheran High School of Orange County__ *STEM Endorsement* | *Honored Scholar*
+* GPA: 4.6
 
-- Sizar
+### Relevant Coursework
+`July 2018-`
+__The Odin Project__ *In progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for learning web development.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2012-13`
+__UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32), and Computer Organization (CS33)
 
-- Fellow
+## Additional
 
+### Technical Skills
 
+* Ruby
+* Javascript
+* HTML and CSS
+* Linux environment
 
-## Awards
+### Programs I'm familiar with
 
-`2012`
-President, *Royal Society*, London, UK
+Blender, GIMP, Krita, OBS Studio, RawTherapee, Inkscape
 
-Associate, *French Academy of Science*, Paris, France
+### Recreation
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Rock Climbing, Swimming, Creative writing, Digital art, Photography
