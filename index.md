@@ -15,13 +15,14 @@ title: Blake Chalman's CV
 ## Currently
 
 I'm a Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
+
 In my off-time, I am working toward a career in software development, utilizing self-study programs to expand on the programming foundations I have from university coursework.
 
 
 ## Employment
 
 `2016-Present`
-__Chalman Technologies__ *Manufacturer's Representative* for the below companies, managing accounts in Southern California, and offering extensive experience with account mangement, product presentation, and customer service and support:  
+__Chalman Technologies__ *Manufacturer's Representative* for the below principal companies, managing accounts in Southern California:  
 
 * [Advanced Dicing Technologies](https://www.adt-co.com/) | Dicing
 * [Besi](https://www.besi.com/)	| Die attach and packaging
@@ -36,6 +37,10 @@ __Chalman Technologies__ *Manufacturer's Representative* for the below companies
 * [Nordson Dage](http://www.nordson.com/en/divisions/dage) | Bond strength test
 * [Nordson March](http://www.nordson.com/en/divisions/march) | Gas plasma
 * [SST Vacuum Reflow Systems](http://www.palomartechnologies.com/solutions/hermetic-package-sealing) | Vacuum soldering
+
+I work closely with customer engineering teams from a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more, to specify manufacturing equipment for the development of new products or to improve on existing manufacturing challenges. The cycle involves sharing sensitive product information and manufacturing requirements, defining and following strict project schedules, internal project management with principal companies to ensure the timely completion of applications testing, optimizing quality and throughput of the new process, and specifying factory acceptance tests for system purchases.
+
+I offer extensive experience with account management, product presentation, collaborative business communication, and customer service and support.
 
 `2015-16`
 __Urgent Care at Newport Center__ *Medical Scribe:* Documented patient contacts for Urgent Care providers, organizing health data, recording treatments, and noting follow up actions to make them easily accessible to the healthcare staff.
