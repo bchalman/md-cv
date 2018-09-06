@@ -7,7 +7,7 @@ title: Blake Chalman's CV
 
 <div id="webaddress">
     <a href="mailto:blakechalman@gmail.com">blakechalman@gmail.com</a>
-  | <a href="www.linkedin.com/in/blakechalman">LinkedIn</a>
+  | <a href="https://www.linkedin.com/in/blake-chalman-a343b6100">LinkedIn</a>
   | <a href="https://github.com/bchalman">GitHub</a>
 </div>
 
