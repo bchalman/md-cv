@@ -6,8 +6,7 @@ title: Blake Chalman's CV
 
 
 <div id="webaddress">
-  <span>714.833.4968</span>
-  | <span>blakechalman@gmail.com</span>
+    <a href=mailto:blakechalman@gmail.com>blakechalman@gmail.com</a>
   | <a href="www.linkedin.com/in/blakechalman">LinkedIn</a>
   | <a href="https://github.com/bchalman">GitHub</a>
 </div>
@@ -53,7 +52,7 @@ __The Boeing Company__ *Intern, Aerospace:* Constructed and tested nanosatellite
 
 ## Education
 
-### Institutions
+### Institutions:
 `2012-15`
 __University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*
 * GPA: 3.787 \| Major GPA: 3.856
@@ -62,26 +61,27 @@ __University of California, Los Angeles__ *Bachelor of Science: Microbiology, Im
 __Lutheran High School of Orange County__ *STEM Endorsement* | *Honored Scholar*
 * GPA: 4.6
 
-### Relevant Coursework
+### Relevant Coursework:
 `July 2018-`
-__The Odin Project__ *In progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for learning web development.
+__The Odin Project__ *In progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for learning full stack web development, covering Ruby, Ruby on Rails, Databases, HTML/CSS, and Javascript.
 
 `2012-13`
-__UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32), and Computer Organization (CS33)
+__UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32 - Topics included object-oriented software development, functions, recursion, data structures, algorithm analysis, searching, sorting), and Computer Organization (CS33 - Topics included number systems, machine language, assembly language, OS concepts).  
 
 ## Additional
 
-### Technical Skills
+### Technical skills:
 
-* Ruby
-* Javascript
-* HTML and CSS
-* Linux environment
+Ruby, Javascript, HTML and CSS, Linux environment
 
-### Programs I'm familiar with
+### Exposure with:
 
-Blender, GIMP, Krita, OBS Studio, RawTherapee, Inkscape
+C++, Visual Studio
 
-### Recreation
+### Other programs I'm familiar with:
 
-Rock Climbing, Swimming, Creative writing, Digital art, Photography
+Blender, GIMP, Krita, OBS Studio, RawTherapee, Inkscape, CRMs (Salesforce, Act!)
+
+### Recreation:
+
+Rock Climbing, swimming, creative writing, digital art, photography
