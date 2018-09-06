@@ -13,7 +13,7 @@ title: Blake Chalman's CV
 
 ## Currently
 
-I'm a Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
+Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
 
 In my off-time, I am working toward a career in software development, utilizing self-study programs to expand on the programming foundations I have from university coursework.
 
@@ -31,12 +31,12 @@ C++, Visual Studio
 
 ### Institution:
 `2012-15`
-__University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*
-* GPA: 3.787 \| Major GPA: 3.856
+__University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*  
+GPA: 3.787 \| Major GPA: 3.856
 
 ### Relevant Coursework:
 `July 2018-`
-__The Odin Project__ *In progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for learning full stack web development, covering Ruby, Ruby on Rails, Databases, HTML/CSS, and Javascript.
+__The Odin Project__ *Full stack web development - in progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for proficiency in full stack web development, covering Ruby, Ruby on Rails, Databases, HTML/CSS, and Javascript.
 
 `2012-13`
 __UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32), covering object-oriented software development, functions, recursion, data structures, algorithm analysis, searching, sorting, and Computer Organization (CS33), covering number systems, machine language, assembly language, OS concepts. 
@@ -60,9 +60,13 @@ __Chalman Technologies__ *Manufacturer's Representative* for the below principal
 * [Nordson March](http://www.nordson.com/en/divisions/march) | Gas plasma
 * [SST Vacuum Reflow Systems](http://www.palomartechnologies.com/solutions/hermetic-package-sealing) | Vacuum soldering
 
-I work closely with customer engineering teams from a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more, to specify manufacturing equipment for the development of new products or to improve on existing manufacturing challenges. The cycle involves presenting principal companies to engineering teams at customer sites, sharing sensitive product information and manufacturing requirements, defining and following strict project schedules, internal project management with principal companies to ensure the timely completion of applications testing, optimizing quality and throughput of the new process, and specifying factory acceptance criteria for system purchases.
-
-I offer extensive experience with account management, product presentation, collaborative business communication, and customer service and support.
+Key Roles:
+* Manage hundreds of local accounts in a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more.
+* Present principal company product portfolios to engineering teams at customer sites.
+* Define and follow strict project schedules, including internal project management with principal companies to ensure the timely completion of applications testing.
+* Specify manufacturing systems for the development of new customer products or to improve on existing manufacturing challenges. 
+* Define factory acceptance criteria for system purchases.
+* Offer extensive experience with account management, product presentation, collaborative business communication, and customer service and support.
 
 `2015-16`
 __Urgent Care at Newport Center__ *Medical Scribe:* Documented patient contacts for Urgent Care providers, organizing health data, recording treatments, and noting follow up actions to make them easily accessible to the healthcare staff.
