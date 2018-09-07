@@ -62,7 +62,7 @@ __Chalman Technologies__ *Manufacturer's Representative* for the below principal
 * [SST Vacuum Reflow Systems](http://www.palomartechnologies.com/solutions/hermetic-package-sealing) | Vacuum soldering
 
 Key Roles:
-* Manage hundreds of local accounts in a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more.
+* Manage local accounts in a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more.
 * Present principal company product portfolios to engineering teams at customer sites.
 * Define and follow strict project schedules, including internal project management with principal companies to ensure the timely completion of applications testing.
 * Specify manufacturing systems for the development of new customer products or to improve on existing manufacturing challenges. 
