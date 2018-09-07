@@ -30,7 +30,7 @@ C++, Visual Studio
 
 ## Education
 
-### Institution:
+### University:
 `2012-15`
 __University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*  
 GPA: 3.787 \| Major GPA: 3.856
