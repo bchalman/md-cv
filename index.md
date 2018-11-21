@@ -6,15 +6,15 @@ title: Blake Chalman's CV
 
 
 <div id="webaddress">
-    <a href=mailto:blakechalman@gmail.com>blakechalman@gmail.com</a>
-  | <a href="www.linkedin.com/in/blakechalman">LinkedIn</a>
+    <a href="mailto:blakechalman@gmail.com">Email</a>
+  | <a href="https://www.linkedin.com/in/blake-chalman-a343b6100">LinkedIn</a>
   | <a href="https://github.com/bchalman">GitHub</a>
+  | <a href="https://bchalman.github.io/md-cv/">CSS-styled CV</a>
 </div>
-
 
 ## Currently
 
-I'm a Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
+Sales Representative at Chalman Technologies, based out of their office and application lab in Anaheim, CA. Here I develop and manage sale opportunities for many equipment suppliers, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
 
 In my off-time, I am working toward a career in software development, utilizing self-study programs to expand on the programming foundations I have from university coursework.
 
