@@ -18,6 +18,32 @@ I'm a Sales Representative at Chalman Technologies, based out of their office an
 
 In my off-time, I am working toward a career in software development, utilizing self-study programs to expand on the programming foundations I have from university coursework.
 
+## Technical
+
+### Working knowledge:
+
+Ruby, Javascript, HTML and CSS, Linux environment  
+File I/O with JSON, YAML, Marshall  
+Testing with RSpec  
+Database management with SQL
+
+### Exposure with:
+
+C++, Visual Studio
+
+## Education
+
+### University:
+`2012-15`
+__University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*  
+GPA: 3.787 \| Major GPA: 3.856
+
+### Relevant Coursework:
+`July 2018-`
+__The Odin Project__ *Full stack web development - in progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for proficiency in full stack web development, covering Ruby, Ruby on Rails, Databases, HTML/CSS, and Javascript.
+
+`2012-13`
+__UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32), covering object-oriented software development, functions, recursion, data structures, algorithm analysis, searching, sorting, and Computer Organization (CS33), covering number systems, machine language, assembly language, OS concepts.
 
 ## Employment
 
@@ -38,9 +64,13 @@ __Chalman Technologies__ *Manufacturer's Representative* for the below principal
 * [Nordson March](http://www.nordson.com/en/divisions/march) | Gas plasma
 * [SST Vacuum Reflow Systems](http://www.palomartechnologies.com/solutions/hermetic-package-sealing) | Vacuum soldering
 
-I work closely with customer engineering teams from a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more, to specify manufacturing equipment for the development of new products or to improve on existing manufacturing challenges. The cycle involves presenting principal companies to engineering teams at customer sites, sharing sensitive product information and manufacturing requirements, defining and following strict project schedules, internal project management with principal companies to ensure the timely completion of applications testing, optimizing quality and throughput of the new process, and specifying factory acceptance criteria for system purchases.
-
-I offer extensive experience with account management, product presentation, collaborative business communication, and customer service and support.
+Key Roles:
+* Manage local accounts in a variety of industries, including aerospace and defense, automotive, medical device, semiconductor, and more.
+* Present principal company product portfolios to engineering teams at customer sites.
+* Define and follow strict project schedules, including internal project management with principal companies to ensure the timely completion of applications testing.
+* Specify manufacturing systems for the development of new customer products or to improve on existing manufacturing challenges.
+* Define factory acceptance criteria for system purchases.
+* Offer extensive experience with account management, product presentation, collaborative business communication, and customer service and support.
 
 `2015-16`
 __Urgent Care at Newport Center__ *Medical Scribe:* Documented patient contacts for Urgent Care providers, organizing health data, recording treatments, and noting follow up actions to make them easily accessible to the healthcare staff.
@@ -54,34 +84,7 @@ __Applied Medical__ *Intern, Information Technologies:* Provided phone and in-pe
 `Summer 2011`
 __The Boeing Company__ *Intern, Aerospace:* Constructed and tested nanosatellite bus components as part of the Colony II project.
 
-
-## Education
-
-### Institutions:
-`2012-15`
-__University of California, Los Angeles__ *Bachelor of Science: Microbiology, Immunology, and Molecular Genetics*
-* GPA: 3.787 \| Major GPA: 3.856
-
-`2009-12`
-__Lutheran High School of Orange County__ *STEM Endorsement* | *Honored Scholar*
-* GPA: 4.6
-
-### Relevant Coursework:
-`July 2018-`
-__The Odin Project__ *In progress.* Self-study [curriculum](https://www.theodinproject.com/courses?ref=homenav) for learning full stack web development, covering Ruby, Ruby on Rails, Databases, HTML/CSS, and Javascript.
-
-`2012-13`
-__UCLA Engineering__ *Computer science:* Completed one year of CS coursework in UCLA's engineering school, including Introduction to Computer Science (CS31, CS32 - Topics included object-oriented software development, functions, recursion, data structures, algorithm analysis, searching, sorting), and Computer Organization (CS33 - Topics included number systems, machine language, assembly language, OS concepts).  
-
 ## Additional
-
-### Technical skills:
-
-Ruby, Javascript, HTML and CSS, Linux environment
-
-### Exposure with:
-
-C++, Visual Studio
 
 ### Other programs I'm familiar with:
 
@@ -89,4 +92,4 @@ Blender, GIMP, Krita, OBS Studio, RawTherapee, Inkscape, CRMs (Salesforce, Act!)
 
 ### Recreation:
 
-Rock Climbing, swimming, creative writing, digital art, photography
+Rock climbing, swimming, creative writing, digital art, photography
