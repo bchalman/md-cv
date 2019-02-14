@@ -47,6 +47,7 @@ __UCLA Engineering__ *Computer science:* Completed one year of CS coursework in 
 
 `2016-Present`
 __Chalman Technologies__ *Manufacturer's Representative* for the below principal companies. Here I develop and manage sale opportunities in Southern California, covering assembly, test, and rework equipment for hybrid electronics and material processing for general manufacturing.  
+<br> 
 
 * [Advanced Dicing Technologies](https://www.adt-co.com/) | Dicing
 * [Besi](https://www.besi.com/)	| Die attach and packaging
