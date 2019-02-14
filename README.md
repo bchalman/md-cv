@@ -1,7 +1,7 @@
 markdown-cv
 ===========
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS. View it [here](https://github.com/bchalman/md-cv).
+A curriculum vitae maintained in plain text and rendered to html and pdf using CSS. View it [here](https://bchalman.github.io/md-cv/).
 
 ***
 
