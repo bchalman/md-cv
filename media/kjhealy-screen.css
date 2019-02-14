@@ -49,7 +49,12 @@ table {
 
 /* end of reset */
 
-
+#main{
+	width: 80%;
+	min-width: 900px;
+	max-width: 1300px;
+	margin: 0 auto;
+}
 
 body {
 	font: normal normal 400;
